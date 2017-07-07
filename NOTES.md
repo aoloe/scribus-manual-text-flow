@@ -23,3 +23,20 @@ If the text is too near the image then:
 
 And that's it. If you're not happy with the flow then move the frame or re-edit the contour line.
 
+## Smart placement of frames
+
+If you select the Insert Text Frame icon (or press T), then hold down the Shift key, clicking the page will create a frame up to the margins.
+
+Of course, the "shift" shortcut-modifier can also be used with image frames or any other type of items.
+
+## Creating chained text frames
+
+If you have a document where you want to place linked text frames that fill with full the whole page (at least if it will be so at the beginning of your layout work) you can create a document with the number of pages you plan to have.
+
+Next, load your text in a new text frame on the first page where the text will start to appear and zoom out a bit (or a lot) to see multiple pages at once.
+
+While the first frame is selected, press the "n" key to activate the "Link to the next text frame" tool and "shift-click" in the middle of the next empty page (or empty column if you have multiple columns) to fill it.
+
+Without deselecting the newly created frame, repeat the "n + shift-click" cycles until you have placed all your linked text.
+
+It is to be noted, that -- when creating a document -- Scribus proposes the option of automatically create frames on each page. In most cases, this option is a bad idea: at some time you'll probably want to interrupt of the flow of frames and the automatic creation of text frames will only get in your way.
