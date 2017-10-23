@@ -40,3 +40,14 @@ While the first frame is selected, press the "n" key to activate the "Link to th
 Without deselecting the newly created frame, repeat the "n + shift-click" cycles until you have placed all your linked text.
 
 It is to be noted, that -- when creating a document -- Scribus proposes the option of automatically create frames on each page. In most cases, this option is a bad idea: at some time you'll probably want to interrupt of the flow of frames and the automatic creation of text frames will only get in your way.
+
+## Hyphenate
+
+### 1.4.6
+
+frist, file > document setup > hyphenator: and pick a language...
+
+
+![](content/images/hyphenate-set-language-1.4.png)
+
+then you can select a single (linked set of) text frame(s) and hyphenate it with "extras > hyphenate text"
